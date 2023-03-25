@@ -24,11 +24,11 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 ---
 ## Plugins
 
-### Browsing
+### [Browsing](https://openai.com/blog/chatgpt-plugins#browsing)
 
 > An experimental model that knows when and how to browse the internet
 
-### Code interpreter
+### [Code interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter)
 
 > An experimental ChatGPT model that can use Python, handle uploads and downloads
 
