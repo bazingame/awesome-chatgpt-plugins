@@ -36,7 +36,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 
 > The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
 
-##  Related Demos / Use cases / Tips
+##  Related Demos / Use cases / Tips / News
 - [Processing a video clip](https://twitter.com/gdb/status/1638971232443076609) by Greg Brockman
 - [Restaurant-booking/Recipe-ingredient-order demo](https://twitter.com/gdb/status/1638949234681712643) by Greg Brockman
 - [Summarizing a HackerNews thread](https://twitter.com/gdb/status/1638986918947082241) by Greg Brockman
