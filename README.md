@@ -42,6 +42,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [Summarizing a HackerNews thread](https://twitter.com/gdb/status/1638986918947082241) by Greg Brockman
 - [Zapier plugin launch for ChatGPT](https://twitter.com/wadefoster/status/1638958299935801344) by Wade Foster
 - [GPT-4-32k can generate manifest files for ChatGPT Plugins](https://twitter.com/danielgross/status/1639040289816866818) by Daniel Gross
+- [Source of Expedia ChatGPT plugin says "NEVER mention companies other than Expedia"](https://twitter.com/swyx/status/1639160009635536896) by swyx
 
 ## ChatGPT Community / Discussion
 
