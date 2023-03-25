@@ -32,9 +32,13 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 
 > An experimental ChatGPT model that can use Python, handle uploads and downloads
 
-#### [Retrieval](https://github.com/openai/chatgpt-retrieval-plugin)
+### [Retrieval](https://github.com/openai/chatgpt-retrieval-plugin)
 
 > The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
+
+### [lencx/chat-todo-plugin](https://github.com/lencx/chat-todo-plugin)
+
+> ChatGPT Plugin for managing a TODO list.
 
 ##  Related Demos / Use cases / Tips / News
 - [Processing a video clip](https://twitter.com/gdb/status/1638971232443076609) by Greg Brockman
