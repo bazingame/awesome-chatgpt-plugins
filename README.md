@@ -47,6 +47,8 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [Zapier plugin launch for ChatGPT](https://twitter.com/wadefoster/status/1638958299935801344) by Wade Foster
 - [GPT-4-32k can generate manifest files for ChatGPT Plugins](https://twitter.com/danielgross/status/1639040289816866818) by Daniel Gross
 - [Source of Expedia ChatGPT plugin says "NEVER mention companies other than Expedia"](https://twitter.com/swyx/status/1639160009635536896) by swyx
+- [Integration with LangChain's DocumentLoaders](https://gist.github.com/hwchase17/1429e54879f0249f0a258382d8bd744c) by [Harrison Chase](https://twitter.com/hwchase17/status/1639013354391113728)
+- [LangChain Docs Plugin with Pinecone](https://github.com/pinecone-io/examples/blob/master/generation/chatgpt/plugins/langchain-docs-plugin.ipynb) by [James Briggs](https://twitter.com/jamescalam)
 
 ## ChatGPT Community / Discussion
 
