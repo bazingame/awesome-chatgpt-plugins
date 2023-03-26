@@ -36,6 +36,11 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 
 > The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
 
+### [simonw/datasette-chatgpt-plugin](https://github.com/simonw/datasette-chatgpt-plugin)
+> A Datasette plugin that turns a Datasette instance into a ChatGPT plugin.
+>
+> [I built a ChatGPT plugin to answer questions about data hosted in Datasette (simonwillison.net)](https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/)
+
 ### [lencx/chat-todo-plugin](https://github.com/lencx/chat-todo-plugin)
 
 > ChatGPT Plugin for managing a TODO list.
