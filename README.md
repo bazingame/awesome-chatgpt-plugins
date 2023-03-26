@@ -56,6 +56,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [LangChain Docs Plugin with Pinecone](https://github.com/pinecone-io/examples/blob/master/generation/chatgpt/plugins/langchain-docs-plugin.ipynb) by [James Briggs](https://twitter.com/jamescalam)
 - [Using ChatGPT to easily create ChatGPT plugins](https://twitter.com/clusteredbytes/status/1638996669244252162) by [Rohan](https://twitter.com/clusteredbytes)
 - [New! Announcing Zapier's ChatGPT plugin](https://zapier.com/blog/announcing-zapier-chatgpt-plugin/?utm_source=twitter&utm_medium=social&utm_term=&utm_content=d0170bc7-61f5-46e8-afe3-9eb43213205d&utm_campaign=tt-gbl-eng-tweet-top_funnel-brand) by zapier
+- [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) by Stephen Wolfram
 
 ## ChatGPT Community / Discussion
 
