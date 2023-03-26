@@ -58,6 +58,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [New! Announcing Zapier's ChatGPT plugin](https://zapier.com/blog/announcing-zapier-chatgpt-plugin/?utm_source=twitter&utm_medium=social&utm_term=&utm_content=d0170bc7-61f5-46e8-afe3-9eb43213205d&utm_campaign=tt-gbl-eng-tweet-top_funnel-brand) by zapier
 - [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) by Stephen Wolfram
 - [ChatGPT Retrieval Plugin with access to the UN Annual Reports from 2018 to 2022](https://twitter.com/isafulf/status/1639726944303599616) by Isabella Fulford
+- [ChatGPT Plugins: Build Your Own in Python! - YouTube](https://www.youtube.com/watch?v=hpePPqKxNq8) by James Briggs
 
 ## ChatGPT Community / Discussion
 
