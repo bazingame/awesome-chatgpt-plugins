@@ -48,6 +48,8 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 ### [ruvnet/chatgpt_plugin_python](https://github.com/ruvnet/chatgpt_plugin_python)
 
 > A simple To-do ChatGPT Plugin using python and deployed on replit.
+>
+> [Tutorial: How to Build and Deploy a ChatGPT Plugin in Python using Replit (includes code) : aipromptprogramming (reddit.com)](https://www.reddit.com/r/aipromptprogramming/comments/11zv8st/tutorial_how_to_build_and_deploy_a_chatgpt_plugin/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=2&utm_content=share_button)
 
 ##  Related Demos / Use cases / Tips / News
 - [Processing a video clip](https://twitter.com/gdb/status/1638971232443076609) by Greg Brockman
