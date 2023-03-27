@@ -45,6 +45,10 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 
 > ChatGPT Plugin for managing a TODO list.
 
+### [ruvnet/chatgpt_plugin_python](https://github.com/ruvnet/chatgpt_plugin_python)
+
+> A simple To-do ChatGPT Plugin using python and deployed on replit.
+
 ##  Related Demos / Use cases / Tips / News
 - [Processing a video clip](https://twitter.com/gdb/status/1638971232443076609) by Greg Brockman
 - [Restaurant-booking/Recipe-ingredient-order demo](https://twitter.com/gdb/status/1638949234681712643) by Greg Brockman
@@ -60,6 +64,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [ChatGPT Retrieval Plugin with access to the UN Annual Reports from 2018 to 2022](https://twitter.com/isafulf/status/1639726944303599616) by Isabella Fulford
 - [ChatGPT Plugins: Build Your Own in Python! - YouTube](https://www.youtube.com/watch?v=hpePPqKxNq8) by James Briggs
 - [Use the Retrieval Plugin to give ChatGPT memory](https://twitter.com/isafulf/status/1640071967889035264) by Isabella Fulford
+- [Tutorial: How to Build and Deploy a ChatGPT Plugin in Python using Replit](https://www.reddit.com/r/aipromptprogramming/comments/11zv8st/tutorial_how_to_build_and_deploy_a_chatgpt_plugin/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=2&utm_content=share_button)
 
 ## ChatGPT Community / Discussion
 
