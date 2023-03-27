@@ -59,6 +59,7 @@ OpenAI plugins connect ChatGPT to third-party applications. These plugins enable
 - [ChatGPT Gets Its “Wolfram Superpowers”!](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) by Stephen Wolfram
 - [ChatGPT Retrieval Plugin with access to the UN Annual Reports from 2018 to 2022](https://twitter.com/isafulf/status/1639726944303599616) by Isabella Fulford
 - [ChatGPT Plugins: Build Your Own in Python! - YouTube](https://www.youtube.com/watch?v=hpePPqKxNq8) by James Briggs
+- [Use the Retrieval Plugin to give ChatGPT memory](https://twitter.com/isafulf/status/1640071967889035264) by Isabella Fulford
 
 ## ChatGPT Community / Discussion
 
